@@ -1,0 +1,7 @@
+2025-04-12 14:40:39, INFO: Current git head hash code: %s
+2025-04-12 14:40:39, INFO: Using device: cpu
+2025-04-12 14:40:39, INFO: Policy: CADRL without occupancy map
+2025-04-12 14:40:39, INFO: human number: 5
+2025-04-12 14:40:39, INFO: Not randomize human's radius and preferred speed
+2025-04-12 14:40:39, INFO: Training simulation: circle_crossing, test simulation: circle_crossing
+2025-04-12 14:40:39, INFO: Square width: 10.0, circle width: 4.0

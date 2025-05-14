@@ -1,0 +1,22 @@
+scan_to_scan_filter_chain:
+  ros__parameters:
+    filter1:
+      name: range1
+      type: laser_filters/LaserScanAngularBoundsFilter
+      params:
+        lower_angle: -3.14
+        upper_angle: -1.57
+    filter2:
+      name: range2
+      type: laser_filters/LaserScanAngularBoundsFilter
+      params:
+        lower_angle: 1.57
+        upper_angle: 3.14
+    filter3:
+      name: range1
+      type: laser_filters/LaserScanRangeFilter
+      params:
+        lower_threshold: 0.25
+        # upper_threshold: 2.0 
+    
+        
