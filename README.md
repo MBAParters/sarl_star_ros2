@@ -10,9 +10,6 @@ We present an advanced version of the Socially Attentive Reinforcement Learning 
 ## Video
 ![](https://github.com/MBAParters/sarl_star_ros2/blob/master/imgs/example.gif)
 
-## System Setup
-![](https://github.com/MBAParters/sarl_star_ros2/blob/master/imgs/system.png)
-
 ## Code Structure
 - **[Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2)**: Crowd simulator using Optimal Reciprocal Collision Avoidance algorithm.
 - [**laser_filters**](http://wiki.ros.org/laser_filters): ROS package to filter out unwanted laser scans. (**optional**)
